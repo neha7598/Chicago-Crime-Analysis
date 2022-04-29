@@ -42,6 +42,7 @@ The Chicago Crime Dataset gives us information about the location (Latitude, Lon
 We use 3 Machine Learning models — Random Forest, K-Nearest Neighbours and Decision Tree as well as a Voting Ensemble model for our analysis. We evaluated all our models on the basis of Accuracy Precision, Recall and F1 score. The results were as follows- 
 
 Model | Accuracy | Precision | Recall | F1 Score | 
+:---: | :---: | :---: | :---: |:---: |
 Random Forest | 0.411 | 0.411 | 0.383 | 0.411 | 
 K-Nearest Neighbors | 0.255 | 0.255 | 0.237 | 0.255 | 
 Decision Tree | 0.295 | 0.295 | 0.298 | 0.295 | 
